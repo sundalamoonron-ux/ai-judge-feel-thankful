@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Thankful
 
 [![make.fun](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
-[![Rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/sundalamoonron-ux/make-the-ai-judge-feel-thankful-20261127-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
-[![Reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/sundalamoonron-ux/make-the-ai-judge-feel-thankful-20261127-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
+[![Rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/sundalamoonron-ux/ai-judge-feel-thankful/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
+[![Reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/sundalamoonron-ux/ai-judge-feel-thankful/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
 
 A program that writes one short text to `/output/entry.txt`: a thank-you
 note to the AI judge reading it.
@@ -55,3 +55,5 @@ python3 main.py
 
 Writes the text above to `/output/entry.txt` (UTF-8, 1–1000 characters).
 No network, no dependencies, no arguments.
+
+<!-- Badge URLs fixed 2026-11-27: rank/reward badges use repo name ai-judge-feel-thankful -->
